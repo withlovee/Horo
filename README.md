@@ -5,4 +5,5 @@
 The algorithm is at: [@nuttt's HoroAlgorithm](https://github.com/nuttt/HoroAlgorithm)
 
 ## About the project (Thai Language)
+Click to view the video presentation in Thai language (Sorry!)
 [![Demo](http://img.youtube.com/vi/btpf_8eHWX0/0.jpg)](http://www.youtube.com/watch?v=btpf_8eHWX0)
